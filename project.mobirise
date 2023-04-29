@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Contact Us.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2857,7 +2857,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/pexels-ryan-baker-129574-445x304.jpg"
       },
       "components": [
         {
